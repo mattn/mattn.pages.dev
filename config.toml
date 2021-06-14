@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://mattn.ga/"
 languageCode = "en-us"
 title = "俺の塩"
 theme = "nix"
