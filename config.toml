@@ -10,6 +10,11 @@ paginate = 5
   HeaderHostname = "mattn.pages.dev"
   About = "塩漬けの日々"
   ProfilePicture = "https://mattn.kaoriya.net/images/logo.png"
+  Email = "mattn.jp@gmail.com"
+  GithubID = "mattn"
+  PayPalMeID = "mattnjp"
+  RedditID = "mattn"
+  TwitterID = "mattn_jp"
 
 [menu]
   [[menu.header]]
