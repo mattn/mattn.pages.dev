@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mattn.ga/categories/</loc>
+    <loc>https://mattn.pages.dev/posts/</loc>
+    <lastmod>2021-06-14T11:54:31+09:00</lastmod>
   </url><url>
-    <loc>https://mattn.ga/tags/</loc>
+    <loc>https://mattn.pages.dev/</loc>
+    <lastmod>2021-06-14T11:54:31+09:00</lastmod>
   </url><url>
-    <loc>https://mattn.ga/</loc>
+    <loc>https://mattn.pages.dev/posts/my-first-post/</loc>
+    <lastmod>2021-06-14T11:54:31+09:00</lastmod>
+  </url><url>
+    <loc>https://mattn.pages.dev/categories/</loc>
+  </url><url>
+    <loc>https://mattn.pages.dev/tags/</loc>
   </url>
 </urlset>

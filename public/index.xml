@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
-    <link>https://mattn.ga/</link>
-    <description>Recent content on Terminal</description>
+    <title>俺の塩</title>
+    <link>https://mattn.pages.dev/</link>
+    <description>Recent content on 俺の塩</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://mattn.ga/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jun 2021 11:54:31 +0900</lastBuildDate><atom:link href="https://mattn.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>塩は良い</title>
+      <link>https://mattn.pages.dev/posts/my-first-post/</link>
+      <pubDate>Mon, 14 Jun 2021 11:54:31 +0900</pubDate>
+      
+      <guid>https://mattn.pages.dev/posts/my-first-post/</guid>
+      <description>人生は塩だ。人は塩から生まれ、塩に返る。</description>
+    </item>
+    
   </channel>
 </rss>
