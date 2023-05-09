@@ -10,7 +10,6 @@ body {
 	background-color: #fdfdfd;
 	height: 100%;
 	font-family: 'Open Sans', sans-serif;
-	font-size: 1.5em;
 }
 
 img {
@@ -39,6 +38,8 @@ img {
 
 nav {
 	font-size: 1.5em;
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
 }
 
 .dropdown-menu li {
@@ -100,6 +101,7 @@ i {
 
 .post-summary {
 	padding: 0 5px 0 5px;
+	font-size: initial;
 }
 
 .post-list-footer {
@@ -139,6 +141,7 @@ i {
 
 .footer p {
 	margin: 0 !important;
+	font-size: initial;
 }
 
 .col-centered{
@@ -152,4 +155,35 @@ div p {
 
 td {
 	margin: 0 20px 0 20px;
+}
+
+/*
+ * Some font-size tweaks for smaller screens
+ */
+@media screen and (max-width: 480px) {
+	.user-social {
+		font-size: 50%;
+	}
+
+	#user-name {
+		font-size: 2em;
+	}
+
+	nav {
+		font-size: 80%;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.user-social {
+		font-size: 40%;
+	}
+
+	#user-name {
+		font-size: 2em;
+	}
+
+	nav {
+		font-size: 80%;
+	}
 }
